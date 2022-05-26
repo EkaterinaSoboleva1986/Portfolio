@@ -1,0 +1,6 @@
+Format	Size	HResolution	VResolution
+JPG	4МБ	7680	4320
+JPEG	8МБ	7679	4319
+PNG	8388607Б	200	200
+BMP		3840	2160
+GIF		201	201
